@@ -8,7 +8,11 @@ Ideas:
 - What sports are offered at Del Norte
 - When the sport season is
 - How to sign up
-## Team Roles
+
+## Wireframe
+<img width="536" alt="quarterfinal" src="https://user-images.githubusercontent.com/89225474/157815048-dcc08b9d-c01a-4629-b8dc-7f6c160ba7b8.png">
+
+ ## Team Roles
 <table>
    <tr>
     <th>Role</th>
@@ -18,30 +22,29 @@ Ideas:
    <tr>
     <th>Deployment Manager</th>
     <th>Arch</th>
-      <th></th>
+      <th>Oversees the release of updates to the website</th>
    </tr>
    <tr>
     <th>Scrum Master</th>
     <th>Rohan</th>
-      <th></th>
+      <th>Plans for the team's success by managing timelines, and resolving problems using the Scrum Board</th>
    </tr>
    <tr>
     <th>Github Admin</th>
     <th>Adi</th>
-      <th></th>
+      <th>Will orgnaize the repository to </th>
    </tr>
    <tr>
     <th>Designer</th>
     <th>Samaya</th>
-      <th></th>
+      <th>To keep a consistent theme throughout the website and make the designing process more efficient</th>
    </tr>
    <tr>
     <th>TO</th>
     <th>Daniel</th>
-      <th></th>
+      <th>responsible for the maintenance of the databases and using them effectivly.</th>
    </tr>
  </table>
  
  ## Sponsor
- 
  
