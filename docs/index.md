@@ -47,3 +47,5 @@ Ideas:
  </table>
  
 # Sponsor
+Varisty Tennis Coach: Coach Cherise 
+Asking for features such as schedules, results, rosters, etc, will add more as we get more requests
