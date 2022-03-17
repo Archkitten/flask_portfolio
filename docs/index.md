@@ -19,7 +19,7 @@
   <tr>
     <td>Adi</td>
     <td><a href="https://github.com/Adi-K-Coding">Profile</a></td>
-    <td><a href="https://adi-k-coding.github.io/Tri3-Adi/ ">Rohan's Pages</a></td>
+    <td><a href="https://adi-k-coding.github.io/Tri3-Adi/ ">Adi's Pages</a></td>
     <td><a href="https://github.com/Archkitten/n224-quarter-finals/issues/assigned/Adi-K-Coding">Issues</a></td>
     <td><a href="">Commits</a></td>
   </tr>
