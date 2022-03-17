@@ -1,5 +1,6 @@
 # CSP Period 4: Team QuarterFinals
 ---
+## [GitHub Pages](https://archkitten.github.io/n22p4-quarter-finals/)
 ## [Jekyll Page](https://archkitten.github.io/n22p4-quarter-finals/index)
 ## [Scrum Board](https://github.com/Archkitten/n22p4-quarter-finals/projects/1)
 ## [Insights with Contributors and Commits](https://github.com/Archkitten/n22p4-quarter-finals/graphs/contributors)
