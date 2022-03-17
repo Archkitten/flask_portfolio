@@ -19,8 +19,8 @@
    </tr>
    <tr>
     <th>Github Admin</th>
-    <th>Adi</th>
-      <th>Will orgnaize the repository to </th>
+    <th>Daniel</th>
+      <th>Will orgnaize the repository to make the team more efficient. </th>
    </tr>
    <tr>
     <th>Designer</th>
@@ -29,7 +29,7 @@
    </tr>
    <tr>
     <th>TO</th>
-    <th>Daniel</th>
+    <th>Adi</th>
       <th>responsible for the maintenance of the databases and using them effectivly.</th>
    </tr>
  </table>
