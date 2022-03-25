@@ -25,6 +25,8 @@ def ranking():
 
     response = requests.request("GET", url, headers=headers, params=querystring)
 
+    results = json.loads(response.content.decode("utf-8"))
+
     print(response.text)
     return render_template("ranking.html", response=response)
 

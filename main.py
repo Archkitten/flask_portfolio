@@ -2,7 +2,7 @@
 from flask import Flask, render_template
 from __init__ import app
 
-from templates.travel import tennis_pg
+from templates.tennis import tennis_pg
 app.register_blueprint(tennis_pg)
 
 
